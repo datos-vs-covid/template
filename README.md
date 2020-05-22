@@ -5,7 +5,7 @@ Bienvenido a la iniciativa Datos vs COVID
 Si quieres trabajar en algun proyecto relacionado al COVID-19, por favor sigue estas indicaciones:
 
 - Crea un repositorio para tu proyecto a partir de este  template. (https://github.com/datos-vs-covid/template). 
-- Asegúrate de que tu estructura de carpetas sea similar a esta:
+- El repositorio tiene por default la siguiente estructura:
 
 ```.
 ├── AUTORES.md
@@ -26,7 +26,8 @@ Si quieres trabajar en algun proyecto relacionado al COVID-19, por favor sigue e
     ├── modelos         <- Código fuente para tu propio modelo.
     └── visualizaciones <- Scripts para la visualización de sus resultados, por ejemplo, matplotlib, ggplot2, bokeh, altair.
 ```
-Lo anterior nos vas a ayudar a que podamos crear un inventario de datos que podamos compartir con la comunidad.
+
+Si no utilizas algún folder, por favor no lo borres. Lo anterior nos va a ayudar a que podamos crear un inventario de datos que podamos compartir con la comunidad. Si necesitas crear más folders, siéntete libre de hacerlo.
 
 Este template usa [Git LSF](https://git-lfs.github.com/) para hacer más ligero el trackeo de archivos de datos, imagenes y videos. Las extensiones que se guardan como LSF son:
 
