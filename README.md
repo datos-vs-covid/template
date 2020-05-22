@@ -4,7 +4,7 @@ Bienvenido a la iniciativa Datos vs COVID
 
 Si quieres trabajar en algun proyecto relacionado al COVID-19, por favor sigue estas indicaciones:
 
-- Crea un repositorio para tu proyecto a partir de este  template. (https://github.com/datos-vs-covid/template). 
+- Crea un repositorio para tu proyecto a partir de este  template. (https://github.com/datos-vs-covid/template). Sólo da click en el botón verde que dice "Use this template" y ¡listo!.
 - El repositorio tiene por default la siguiente estructura:
 
 ```.
